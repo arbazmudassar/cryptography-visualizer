@@ -159,7 +159,7 @@ Contributions are welcome. Feel free to fork the repository and improve the proj
 
 ## 📬 Contact
 
-* GitHub: https://github.com/arbaz-mudassar
+* GitHub: https://github.com/arbazmudassar
 * Email: [arbazmudassar@gmail.com](mailto:arbazmudassar0@gmail.com)
 
 ---
